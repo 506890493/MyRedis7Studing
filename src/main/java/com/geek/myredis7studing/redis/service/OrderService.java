@@ -1,4 +1,4 @@
-package com.geek.myredis7studing.redis;
+package com.geek.myredis7studing.redis.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
